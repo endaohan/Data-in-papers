@@ -1,0 +1,1 @@
+For the trajectories of the swimmers, the external electric field always points in the -y direction. 
